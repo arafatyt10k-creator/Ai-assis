@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "MAYRA AI - Premium Voice Assistant",
+  "short_name": "MAYRA AI",
+  "description": "A real-time, voice-to-voice companion and Android assistant with live multimodal vision.",
+  "theme_color": "#040914",
+  "background_color": "#040914",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "categories": ["productivity", "utilities", "personalization"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

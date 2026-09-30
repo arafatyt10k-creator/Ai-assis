@@ -1,0 +1,11 @@
+{
+  "name": "MAYRA AI",
+  "description": "MAYRA AI - Premium Android Voice Assistant with real-time conversational intelligence, holographic presence, phone control integrations, camera vision, study mode, and persistent memory core.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
